@@ -13,7 +13,7 @@ Arduino Port Change Interrupt Test
 
 
 
-ลิงต์อ้างอิง:
+ลิงค์อ้างอิง:
 
 PCINT tutorial
 
