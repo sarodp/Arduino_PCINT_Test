@@ -20,6 +20,7 @@ PCINT tutorial
 https://www.electrosoftcloud.com/en/pcint-interrupts-on-arduino/
  
 
-Rotary Encoder Swithc Tutorial by Dejan Nedelkovski 
+
+Rotary Encoder Switch Tutorial by Dejan Nedelkovski 
 
 www.HowToMechatronics.com
