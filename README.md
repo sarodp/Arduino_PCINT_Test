@@ -24,3 +24,9 @@ https://www.electrosoftcloud.com/en/pcint-interrupts-on-arduino/
 Rotary Encoder Switch Tutorial by Dejan Nedelkovski 
 
 www.HowToMechatronics.com
+
+
+
+All types of Interrupts Detail Explanation
+ 
+https://dronebotworkshop.com/interrupts/
